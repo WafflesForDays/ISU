@@ -14,13 +14,13 @@
 
 # Git and GitHub
 
-## Git
+  ## Git
 
 - Git is a version control system that allows deveopers to track changes made to their source code
 - A *repository* stores metadata for a set of files or directory structure
 - Repositories contain backups for every edit you make to your code
 
-## GitHub
+  ## GitHub
 
 - GitHub is a web based platform that uses Git to help developers collaborate on projects by allowing them to choose which changes to save and which to refute
 - This is done using features like issue tracking, pull requests, code review, and project management
@@ -28,7 +28,7 @@
 - You can then create *branches* to make changes to the code without affecting the *main* branch
 - You can then push these changes to the main branch, or pull from the main branch to your local files
 
-  # Markdown
+# Markdown
 
   - Markdown is used for structuring text documents
   - Markdown is designed to be easy to write and use
